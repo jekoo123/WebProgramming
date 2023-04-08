@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  border-bottom: 1px solid rgb(222, 226, 230);
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+}
+
+.nav a{
+  padding:30px;
+}
+
+
+

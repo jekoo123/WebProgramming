@@ -1,9 +1,10 @@
 import React from "react";
-import Header from "../components/Header"
 
-const proposal= ()=> {
+function Proposal () {
   return (
-    <Header title="Proposal Page"/>
-  );
-};
-export default proposal;
+    <div>
+
+    </div>
+  )
+}
+export default Proposal;
